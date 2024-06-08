@@ -1,6 +1,6 @@
 #BookOfA MERN STACK project LINK:
 👉 https://book-of-a-amith.vercel.app/
-#BACEND GITHUB REPOSTIORY
+#BACEND GITHUB REPOSITORY LINK:
 👉 https://github.com/k-amith1610/BookOfA-amith-backend
 
 # React + Vite
